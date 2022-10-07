@@ -1,0 +1,5 @@
+DO NOT EDIT THE GAME NO MATTER WHAT.
+
+IF You Want To Contribute. then ok.
+
+BUT YOU NEED GDEVELOP.
